@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Stock Hawk</string>
+    <string name="action_example" translatable="true">Example action</string>
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="action_change_units" translatable="true">Change Units</string>
+    <string name="symbol_search" translatable="true">Symbol Search</string>
+    <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill" translatable="false"></string>
+    <string name="widget_title" translatable="true">Today\'s Market</string>
+    <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+    <string name="title_line_graph" translatable="true">Line Graph</string>
+    <string name="content_desc_add_stock" translatable="true">Add Stock</string>
+    <string name="no_items_to_display" translatable="true">No items available or list outdated</string>
+    <string name="out_of_date" translatable="true">out of date</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stock Hawk</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="action_change_units">Währung ändern</string>
+    <string name="action_example">Beispielaktion</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="content_desc_add_stock">Aktie hinzufügen</string>
+    <string name="content_test">Aktie suchen</string>
+    <string name="input_prefill" translatable="false"></string>
+    <string name="network_toast">Oh-oh! Die App braucht eine Internetverbindung.</string>
+    <string name="symbol_search">Aktiensymbol suchen</string>
+    <string name="title_line_graph">Chart</string>
+    <string name="widget_title">Heutiger Aktienmarkt</string>
+</resources>
