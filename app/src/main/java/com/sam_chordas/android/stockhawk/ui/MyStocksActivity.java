@@ -37,6 +37,8 @@ import com.sam_chordas.android.stockhawk.touch_helper.SimpleItemTouchHelperCallb
 /*
 
 /**
+
+/**
 Sources Super Duo and Stock Hawk:
 http://stackoverflow.com/questions/6327483/implement-bar-code-scanner-in-android
 http://stackoverflow.com/questions/27851512/how-to-integrate-zxing-library-to-android-studio-for-barcode-scanning
@@ -81,6 +83,7 @@ http://stackoverflow.com/questions/3455123/programmatically-update-widget-from-a
 http://stackoverflow.com/questions/5161121/find-home-screen-widget-id
 http://stackoverflow.com/questions/17387191/check-if-a-widget-is-exists-on-homescreen-using-appwidgetid
 http://stackoverflow.com/questions/23057323/widget-update-via-remoteview-android
+http://developer.android.com/reference/android/appwidget/AppWidgetManager.html
 
 (BELOW: Sources I've used for previous projects)
 
