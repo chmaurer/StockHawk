@@ -1,4 +1,4 @@
-# (Udacity) StockHawk
+# (Udacity) Stock Hawk
 The StockHawk project for my Udacity Android Developer Nano Degree.
 
 ## Introduction
