@@ -1,5 +1,5 @@
-# StockHawk
-Udacity StockHawk Project
+# (Udacity) StockHawk
+The StockHawk project for my Udacity Android Developer Nano Degree.
 
 ## Introduction
 The Udacity StockHawk Project is a project created for my Udacity Android Developer Nano Degree. I used the initial sources of Udacity to implement certain functions.
